@@ -1,16 +1,24 @@
 {
     "name": "story-of-hair",
-    "home": [{
+    "home": { "video" : [{
         "href": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
-        "thumb" : "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-video-file-for-testing.png"
+        "thumb" : "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-video-file-for-testing.png",
+        "title" : "title"
     },{
         "href": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
-        "thumb" : "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-video-file-for-testing.png"
+        "thumb" : "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-video-file-for-testing.png",
+        "title" : "title"
     },{
         "href": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
-        "thumb" : "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-video-file-for-testing.png"
+        "thumb" : "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-video-file-for-testing.png",
+        "title" : "title"
     },{
         "href": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
-        "thumb" : "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-video-file-for-testing.png"
-    }]
+        "thumb" : "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-video-file-for-testing.png",
+        "title" : "title"
+    }],
+    "slide" : [{"thumb" : "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-video-file-for-testing.png",
+        "title" : "title"},{"thumb" : "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-video-file-for-testing.png",
+            "title" : "title"},{"thumb" : "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-video-file-for-testing.png",
+                "title" : "title"}]}
 }
