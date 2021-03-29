@@ -1,0 +1,16 @@
+{
+    "name": "story-of-hair",
+    "home": [{
+        "href": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
+        "thumb" : "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-video-file-for-testing.png"
+    },{
+        "href": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
+        "thumb" : "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-video-file-for-testing.png"
+    },{
+        "href": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
+        "thumb" : "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-video-file-for-testing.png"
+    },{
+        "href": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
+        "thumb" : "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-video-file-for-testing.png"
+    }]
+}
