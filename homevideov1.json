@@ -2,31 +2,34 @@
     "name": "story-of-hair",
     "home": {
         "video": [{
-            "href": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
-            "thumb": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-video-file-for-testing.png",
-            "title": "title"
+            "href": "https://youtu.be/W0pJAaJgSPU",
+            "thumb": "https://i.ytimg.com/vi_webp/W0pJAaJgSPU/hqdefault.webp",
+            "title": "Cắt Tóc Tại Story of Hair"
         }, {
-            "href": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
-            "thumb": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-video-file-for-testing.png",
-            "title": "title"
+            "href": "https://youtu.be/uIA8Xmc2plE",
+            "thumb": "https://i.ytimg.com/vi_webp/uIA8Xmc2plE/sddefault.webp",
+            "title": "130 Triều Khúc Story of Hair"
         }, {
-            "href": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
-            "thumb": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-video-file-for-testing.png",
-            "title": "title"
+            "href": "https://youtu.be/Ymw28n1IS4E",
+            "thumb": "https://i.ytimg.com/vi_webp/Ymw28n1IS4E/sddefault.webp",
+            "title": "Cắt Tóc Gội Đầu Dưỡng Sinh"
         }, {
-            "href": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
-            "thumb": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-video-file-for-testing.png",
-            "title": "title"
+            "href": "https://youtu.be/19h-Nncmqww",
+            "thumb": "https://i.ytimg.com/vi_webp/19h-Nncmqww/sddefault.webp",
+            "title": "Massage Dưỡng Sinh"
         }],
         "slide": [{
-            "thumb": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-video-file-for-testing.png",
-            "title": "title"
+            "thumb": "https://i.ytimg.com/vi_webp/W0pJAaJgSPU/hqdefault.webp",
+            "title": "Cắt Tóc Tại Story of Hair"
         }, {
-            "thumb": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-video-file-for-testing.png",
-            "title": "title"
+            "thumb": "https://i.ytimg.com/vi_webp/uIA8Xmc2plE/sddefault.webp",
+            "title": "130 Triều Khúc Story of Hair"
         }, {
-            "thumb": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-video-file-for-testing.png",
-            "title": "title"
+            "thumb": "https://i.ytimg.com/vi_webp/Ymw28n1IS4E/sddefault.webp",
+            "title": "Cắt Tóc Gội Đầu Dưỡng Sinh"
+        }, {
+            "thumb": "https://i.ytimg.com/vi_webp/19h-Nncmqww/sddefault.webp",
+            "title": "Massage Dưỡng Sinh"
         }]
     }
 }
