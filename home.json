@@ -1,0 +1,49 @@
+{
+    "name": "story-of-hair",
+    "home": [{
+        "id": "1",
+        "type": "header",
+        "title": "Story of Hair",
+        "font": "",
+        "color": "#2ab7ca",
+        "size": "32",
+        "height": "400",
+    }, {
+        "id": "2",
+        "type": "link",
+        "title": "Combo quá đã chỉ với 100k",
+        "font": "",
+        "color": "#2ab7ca",
+        "size": "16",
+        "height": "200",
+        "href": ""
+    }, {
+        "id": "3",
+        "type": "link",
+        "title": "Kính mời anh em tới trải nghiệm thư giãn sau giờ làm việc",
+        "font": "",
+        "color": "#2ab7ca",
+        "size": "16",
+        "height": "200",
+        "href": ""
+    }, {
+        "id": "4",
+        "type": "link",
+        "title"
+        "Kính mời anh em tới trải nghiệm thư giãn sau giờ làm việc",
+        "font": "",
+        "color": "#2ab7ca",
+        "size": "16"
+        "height": "200",
+        "href": ""
+    }, {
+        "id": "5",
+        "type": "video",
+        "title": "Video_1",
+        "font": "",
+        "color": "#2ab7ca",
+        "size": "16",
+        "height": "200",
+        "href": ""
+    }]
+}
