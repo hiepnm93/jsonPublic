@@ -29,11 +29,10 @@
     }, {
         "id": "4",
         "type": "link",
-        "title"
-        "Kính mời anh em tới trải nghiệm thư giãn sau giờ làm việc",
+        "title": "Kính mời anh em tới trải nghiệm thư giãn sau giờ làm việc",
         "font": "",
         "color": "#2ab7ca",
-        "size": "16"
+        "size": "16",
         "height": "200",
         "href": ""
     }, {
